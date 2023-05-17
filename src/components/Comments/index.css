@@ -1,0 +1,85 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background-color: #0284c7;
+  border-radius: 5px;
+  border-width: 0px;
+  color: white;
+  width: 120px;
+  height: 40px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.count {
+  background-color: #0284c7;
+  border-radius: 5px;
+  color: white;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  padding-top: 2px;
+}
+.tag {
+  font-size: 15px;
+  font-weight: 700px;
+  color: #475569;
+}
+.heading {
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: roboto;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.top-card {
+  display: flex;
+  justify-content: space-between;
+}
+.image {
+  width: 300px;
+  height: 250px;
+  align-self: flex-end;
+}
+.text-area {
+  margin-top: 5px;
+  width: 300px;
+}
+.input {
+  width: 300px;
+  height: 32px;
+}
+.card {
+  background-color: white;
+  background-size: cover;
+  width: 800px;
+  height: 800px;
+}
+.count-tab {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.count-name {
+  text-align: center;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  color: #475569;
+  font-weight: 600px;
+}
+.ul-list {
+  list-style-type: none;
+}

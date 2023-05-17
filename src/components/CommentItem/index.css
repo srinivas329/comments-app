@@ -1,0 +1,107 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.comment-tab {
+  display: flex;
+}
+.profile {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 8px;
+  font-size: 20px;
+}
+.profile-container {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 8px;
+  font-size: 20px;
+}
+.username {
+  font-weight: bold;
+  font-size: 18px;
+}
+.comment {
+  color: #64748b;
+  font-family: roboto;
+}
+.comment-and-name {
+  margin-left: 18px;
+}
+.like {
+  width: 20px;
+  height: 20px;
+  margin-top: 8px;
+}
+.liked-color {
+  color: #0ea5e9;
+}
+.date-container {
+  display: flex;
+  flex-direction: row;
+}
+.date {
+  font-size: 12px;
+  font-weight: bold;
+  color: #64748b;
+  margin-left: 30px;
+  margin-top: 25px;
+}
+.delete {
+  width: 20px;
+  height: 20px;
+}
+.like-and-delete {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button1 {
+  background-color: transparent;
+  border-width: 0px;
+}
+.button2 {
+  background-color: transparent;
+  border-width: 0px;
+  display: flex;
+  justify-content: space-around;
+}
+.like-text {
+  font-family: roboto;
+  font-weight: bold;
+  color: #94a3b8;
+  margin-left: 10px;
+}
